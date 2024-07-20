@@ -1,4 +1,4 @@
-Entrar a la carpeta "parqueadero-api" y desde ahí abrir una consola y ejecutar los siguientes comandos:
+Entrar a la carpeta "PRUEBA/parqueadero-api" y desde ahí abrir una consola y ejecutar los siguientes comandos:
 
 Instalar los paquetes:
 npm install
