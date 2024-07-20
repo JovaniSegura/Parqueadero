@@ -1,0 +1,5 @@
+node_modules
+.vscode/*
+
+# Nota: deje él .env para que lo tengan a la mano, pero esto no debería de dejarse
+# .env
